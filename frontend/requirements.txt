@@ -1,0 +1,4 @@
+# frontend/requirements.txt
+
+streamlit==1.2.0
+protobuf~=3.19.0
